@@ -1,0 +1,23 @@
+body {
+  background-color: grey;
+}
+
+#navigation {
+ 
+}
+
+#navigation_bar {
+
+}
+
+.box {
+
+}
+
+.box_picture {
+  max-width: 25%;
+}
+
+.box_paragraph {
+  float: left;
+}
